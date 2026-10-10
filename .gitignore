@@ -1,5 +1,8 @@
 # Local development helpers
 open-browser.bat
 open-mahfouze-browser.js
+scratch_*
+dump_*
 .DS_Store
 Thumbs.db
+
