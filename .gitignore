@@ -1,0 +1,5 @@
+# Local development helpers
+open-browser.bat
+open-mahfouze-browser.js
+.DS_Store
+Thumbs.db
