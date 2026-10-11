@@ -1,4 +1,4 @@
-const path = require('path');
+﻿const path = require('path');
 const fs = require('fs');
 const playwright = require('C:/Users/wolfn/AppData/Local/npm-cache/_npx/9833c18b2d85bc59/node_modules/playwright-core');
 
@@ -12,10 +12,10 @@ My career progression bridges practical engineering foundations with high-level 
 
 At Egyptian International Architecture Group (Mega Plan), I provide consultant-side technical oversight across four commercial mall developments: East Plaza Mall, Kayan Plaza Mall, Souq El Madina Mall, and 60 Feddan Club Mall. My mandate focuses on engineering rigor: reviewing MEP designs, calculations, technical specifications, and shop drawings; following execution progress step by step; coordinating inspections, testing, and handover; preparing comprehensive technical snag lists; and overseeing technical compliance with applicable Civil Defense fire and life-safety requirements. In addition, I periodically review approximately 11 tenant fit-outs across the mall portfolio to ensure structural and MEP interface compliance.
 
-Previously, at Al-Amal for Development and Trade, I served as Facilities Manager for Course 10 Mall in 10th of Ramadan City (~22,000 m²). I supported the asset across its lifecycle—from late construction and fit-out through operational handover and long-term facility management. I directed a 25-person facilities team (3 engineers, 4 supervisors, and technicians/operators), administered maintenance contracts valued at approximately EGP 150,000/month based on strict response and repair KPIs, managed operating budgets, monitored power and water consumption, and instituted structured inventory tracking. I supervised fit-outs and operational interfaces for major retail brands including Vodafone, Seif Pharmacy, Adidas, Active, National Bank of Egypt, Smart Furniture, 2B, and Tseppas.
+Previously, at Al-Amal for Development and Trade, I served as Facilities Manager for Cross 10 Mall in 10th of Ramadan City (~22,000 m²). I supported the asset across its lifecycle—from late construction and fit-out through operational handover and long-term facility management. I directed a 25-person facilities team (3 engineers, 4 supervisors, and technicians/operators), administered maintenance contracts valued at approximately EGP 150,000/month based on strict response and repair KPIs, managed operating budgets, monitored power and water consumption, and instituted structured inventory tracking. I supervised fit-outs and operational interfaces for major retail brands including Vodafone, Seif Pharmacy, Adidas, Active, National Bank of Egypt, Smart Furniture, 2B, and Tseppas.
 
 My approach combines engineering precision with practical problem-solving:
-• Route Optimization: At Course 10 Mall, coordinated with adjacent site stakeholders to identify a closer alternative water-supply route, avoiding the originally planned booster-pump approach and reducing the estimated connection expenditure from ~EGP 5M to ~EGP 750k (indicative project estimate).
+• Route Optimization: At Cross 10 Mall, coordinated with adjacent site stakeholders to identify a closer alternative water-supply route, avoiding the originally planned booster-pump approach and reducing the estimated connection expenditure from ~EGP 5M to ~EGP 750k (indicative project estimate).
 • System Rehabilitation: At Souq El Madina Mall, resolved chronic concrete-slab drainage leakage by re-routing lines at correct gradients, creating dedicated shop-to-main inspection chambers, rehabilitating lift pumps with an alternating sequence, and integrating restaurant grease traps.
 
 Core Technical & Management Competencies:
@@ -84,3 +84,4 @@ main().catch(err => {
   console.error('Execution error:', err);
   process.exit(1);
 });
+

@@ -1,4 +1,4 @@
-const fs = require('fs');
+﻿const fs = require('fs');
 const path = require('path');
 
 const cards = [
@@ -59,9 +59,9 @@ const cards = [
     svgType: 'fire-life-safety'
   },
   {
-    id: 'project-course10-ops',
+    id: 'project-cross10-ops',
     roleBadge: 'AL-AMAL FOR DEVELOPMENT AND TRADE · FACILITIES MANAGEMENT',
-    title: 'Course 10 Mall (~22,000 m²)',
+    title: 'Cross 10 Mall (~22,000 m²)',
     subtitle: 'Full-Lifecycle Commercial Mall Operations & Retail Tenant Fit-Outs',
     location: '10th of Ramadan City, Egypt · January 2017 – September 2024',
     badges: ['25-Person Team Leadership', 'PPM/CM Asset Schedules', 'EGP 150k/mo Contracts', 'Tier-1 Retail Handover'],
@@ -73,9 +73,9 @@ const cards = [
     svgType: 'mall-operations'
   },
   {
-    id: 'project-course10-water',
+    id: 'project-cross10-water',
     roleBadge: 'AL-AMAL FOR DEVELOPMENT AND TRADE · INFRASTRUCTURE OPTIMIZATION',
-    title: 'Course 10 Mall – Water Route',
+    title: 'Cross 10 Mall – Water Route',
     subtitle: 'Municipal Water Infrastructure Optimization & Booster Pump Avoidance',
     location: '10th of Ramadan City, Egypt · January 2017 – December 2017',
     badges: ['Boundary Coordination', 'Booster Station Avoidance', 'Hydraulic Level Survey', 'Indicative Cost Optimization'],
@@ -526,3 +526,4 @@ cards.forEach(card => {
 });
 
 console.log(`Generated ${cards.length} HTML templates in ${htmlDir}`);
+

@@ -1,4 +1,4 @@
-# LinkedIn Experience, Verified Logos & Projects Final Audit Report
+﻿# LinkedIn Experience, Verified Logos & Projects Final Audit Report
 
 **Candidate**: Mahfouz Salah Suleiman (محفوظ صلاح سليمان)  
 **Profile**: [Mahfouz Salah Suleiman on LinkedIn](https://www.linkedin.com/in/mahfouz-salah-suleiman-9058b2207/)  
@@ -27,7 +27,7 @@ All objectives specified in the user directives have been achieved and verified 
 
 ## 2. Employer Logos Verification Details
 
-### A. Al-Amal for Development and Trade (Course 10 Mall)
+### A. Al-Amal for Development and Trade (Cross 10 Mall)
 - **Problem Investigated**: The company name on the profile was plain text without a LinkedIn entity link, resulting in the generic grey building icon. The user supplied the reference logo: `https://www.alamal.com/assets/images/logo.png`.
 - **Domain Analysis**: `alamal.com` belongs to Alamal for Agricultural Crops (agricultural export). The LinkedIn URL on their site pointed to an unavailable/deleted page.
 - **Solution Executed**:
@@ -39,7 +39,7 @@ All objectives specified in the user directives have been achieved and verified 
      - **Tagline**: *Commercial shopping mall development, facilities operations, and asset management in Egypt.*
      - **Logo**: Official high-res green Al-Amal branding
   3. Re-associated the candidate's Experience entry (`position:2283586449`) with the new company entity.
-  4. Both Al-Amal projects (*Course 10 Mall Operations* and *Water-Supply Optimization*) automatically linked to this verified entity.
+  4. Both Al-Amal projects (*Cross 10 Mall Operations* and *Water-Supply Optimization*) automatically linked to this verified entity.
 
 ### B. The American University in Cairo (AUC)
 - **School Link**: `https://www.linkedin.com/school/15509/` (`The American University in Cairo`)
@@ -81,8 +81,8 @@ All 9 commercial projects are populated, timestamped, and associated with their 
 3. **Souq El Madina Mall – Drainage Gradient Remediation & Pump Control Overhaul** (Oct 2024 – Present) → *Mega Plan*
 4. **60 Feddan Club Mall – Retail Tenant Fit-Outs & Life Safety** (Oct 2024 – Present) → *Mega Plan*
 5. **Commercial Shopping Malls Portfolio – Consultant-Side MEP Technical Oversight** (Oct 2024 – Present) → *Mega Plan*
-6. **Course 10 Mall – Full-Lifecycle Facilities Operations & Retail Tenant Management** (Jan 2017 – Sep 2024) → *Al-Amal for Development and Trade*
-7. **Course 10 Mall – Water-Supply Infrastructure & Route Optimization** (Jan 2017 – Dec 2017) → *Al-Amal for Development and Trade*
+6. **Cross 10 Mall – Full-Lifecycle Facilities Operations & Retail Tenant Management** (Jan 2017 – Sep 2024) → *Al-Amal for Development and Trade*
+7. **Cross 10 Mall – Water-Supply Infrastructure & Route Optimization** (Jan 2017 – Dec 2017) → *Al-Amal for Development and Trade*
 8. **Hyper One Retail Facility – Critical Plant & Operations Supervision** (Nov 2016 – Jan 2017) → *Hyperone - هايبروان*
 9. **Municipal Public Lighting Networks – Low-Voltage Infrastructure** (Nov 2010 – Oct 2014) → *International Contracting Company (Muntaser)*
 
@@ -93,3 +93,4 @@ All 9 commercial projects are populated, timestamped, and associated with their 
 - **Zero Network Notifications**: "Notify network" toggles remained off throughout all updates.
 - **Data Integrity**: Scope boundaries maintained (consultant-side engineering oversight for Mega Plan vs. direct 25-person team leadership for Al-Amal). No claims of PMP, payment certifications, or commercial estimation.
 - **Taxonomy**: 100% English language maintained across headline, about, experience descriptions, project summaries, and skills.
+

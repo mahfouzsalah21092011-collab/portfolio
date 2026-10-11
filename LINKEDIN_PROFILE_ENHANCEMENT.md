@@ -1,4 +1,4 @@
-# Comprehensive LinkedIn Profile Audit, Strategy & Enhancement Master Plan
+﻿# Comprehensive LinkedIn Profile Audit, Strategy & Enhancement Master Plan
 **Candidate:** Mahfouz Salah Suleiman (Mahfouz Salah Mahfouz Soliman)  
 **Target Roles:** Facilities Manager | Senior Facilities Manager | MEP Manager | Facilities & MEP Department Manager  
 **Target Markets:** Saudi Arabia (KSA) | United Arab Emirates (UAE) | Egypt | Kuwait | Qatar  
@@ -38,12 +38,12 @@ Below is an exhaustive section-by-section audit across all 17 critical profile c
 | **4** | **Headline** | Facilities Manager at Egyptian International Architecture Group / Mega Plan | Passive, company-bound title. Misses 75% of primary search keywords (MEP Manager, Shopping Mall Operations, Retail Fit-Out, Tenant Coordination, KSA / UAE). | Implement a multi-pillar executive headline utilizing full 220-character allocation with high-frequency recruiter search terms. | **Critical** |
 | **5** | **About Section** | Brief summary or blank baseline focused purely on electrical engineering roots. | Fails to narrate career progression from electrical maintenance to full-asset facilities management and consultant oversight; lacks verified impact examples. | Full rewrite into a structured narrative: Hook, Career Evolution, Dual Technical/Operational Strengths, 2 Verified Problem-Solving Examples, and GCC target direction. | **Critical** |
 | **6** | **Current Position** | Facility Manager at Egyptian International Architecture Group (Mega Plan) | Risk of implying direct line-management of staff or commercial certification duties, which conflicts with actual consultant oversight scope. | Retitle to Facilities / MEP Department Manager – Consultant-side Technical Oversight. Frame duties strictly around design/shop-drawing review, inspection, snagging, testing & commissioning, and Civil Defense compliance across 4 malls. | **Critical** |
-| **7** | **Previous Experience** | 4 prior roles with uneven, generic bullet points (Managed electrical systems, Conducted routine inspections). | Missing quantification (asset sizes, team structures, contractor values); does not showcase shopping mall operations (Course 10 Mall, 22,000 m²) or retail tenant names. | Rewrite all 4 historical entries with 5–8 evidence-based bullets, distinguishing the 25-person team leadership at Course 10 Mall and practical equipment engineering. | **Critical** |
+| **7** | **Previous Experience** | 4 prior roles with uneven, generic bullet points (Managed electrical systems, Conducted routine inspections). | Missing quantification (asset sizes, team structures, contractor values); does not showcase shopping mall operations (Cross 10 Mall, 22,000 m²) or retail tenant names. | Rewrite all 4 historical entries with 5–8 evidence-based bullets, distinguishing the 25-person team leadership at Cross 10 Mall and practical equipment engineering. | **Critical** |
 | **8** | **Education** | Bachelor of Electronics Technology, Helwan University, 2009 | Minor wording discrepancy with official degree nomenclature; misses the graduation project distinction. | Update degree to: Bachelor of Industrial Education, Electronics Technology Department, Helwan University (2009). Highlight graduation project: *Design of Miniature Laboratory System for Voltage & Current Measurements* (Grade: Excellent). | **Medium** |
 | **9** | **Licenses & Certifications** | Mixture of informal course listings; occasional confusion with PMP credentials. | Risk of ATS misclassification or false PMP claims. Short courses must not be conflated with government/board licenses. | Separate formal diploma: Applied Supervisory Professional Diploma (AUC School of Continuing Education, 210 contact hours) from PMI-aligned short courses. Zero false claims of PMP certification. | **Critical** |
 | **10** | **Skills Section** | Unordered collection of general skills (e.g., Management, Engineering, Teamwork). | Low keyword density for MEP/FM search queries; core competencies buried; unverified skills diluting relevance. | Reorder and pin Top 3 skills (Facilities Management, MEP Coordination, Commercial Mall Operations). Add technical taxonomy covering HVAC, Firefighting, Civil Defense, and Fit-Outs. | **High** |
 | **11** | **Featured Section** | Empty or linking to outdated, unformatted files. | Misses prime profile real estate to showcase technical deliverables, portfolio documents, and verified case studies. | Curate 5 top-tier media items: Master CV (PDF), Professional Portfolio (PDF), Portfolio Website link, Water Supply Case Study, and Drainage Remediation Case Study. | **High** |
-| **12** | **Projects Section** | Underutilized or unlisted individual mall projects. | Mega Plan's 4 commercial malls and Course 10 Mall are not linked to searchable project cards. | Create structured Project entries for Course 10 Mall, Souq El Madina Mall, East Plaza Mall, Kayan Plaza Mall, and 60 Feddan Club Mall. | **Medium** |
+| **12** | **Projects Section** | Underutilized or unlisted individual mall projects. | Mega Plan's 4 commercial malls and Cross 10 Mall are not linked to searchable project cards. | Create structured Project entries for Cross 10 Mall, Souq El Madina Mall, East Plaza Mall, Kayan Plaza Mall, and 60 Feddan Club Mall. | **Medium** |
 | **13** | **Courses Section** | Scattered or partially documented LinkedIn Learning completions. | Lacks verified metadata (PMI Registered Education Provider ID #4101, CPE credits, Certificate IDs). | Populate all 11 verified courses with exact completion dates, PDUs/CPEs, and Certificate IDs matching مستنداتي.pdf. | **Medium** |
 | **14** | **Recommendations** | Zero received or outdated peer recommendations. | Limits social proof and peer validation for senior FM/MEP leadership roles in the GCC. | Deploy targeted outreach to former managers, consultants, and contractors requesting specific recommendations on technical oversight and team leadership. | **Medium** |
 | **15** | **Accomplishments & Awards** | No structured awards or honors listed. | Academic excellence (Graduation Project Grade: Excellent) and major cost-optimization achievements are unindexed. | Index academic honors and project problem-solving milestones in the Accomplishments module. | **Low** |
@@ -96,7 +96,7 @@ Recruiters in Riyadh, Jeddah, Dubai, Abu Dhabi, and Doha actively search for hyb
 > `Facilities & MEP Department Manager | Commercial Shopping Malls & Retail Fit-Outs | Consultant-Side Technical Oversight, Preventive Maintenance (O&M), Testing & Handover | AUC Diploma | KSA • UAE • Qatar • Egypt`  
 > *(Total Length: 218 characters / 220 max)*
 
-* **Strategic Positioning**: The optimal executive synthesis. Bridges consultant-side engineering scrutiny (Mega Plan's 4 malls) with extensive 8-year shopping mall operational leadership (Course 10 Mall's 25-person team).
+* **Strategic Positioning**: The optimal executive synthesis. Bridges consultant-side engineering scrutiny (Mega Plan's 4 malls) with extensive 8-year shopping mall operational leadership (Cross 10 Mall's 25-person team).
 * **Recruiter Keyword Footprint**: `Facilities & MEP Department Manager`, `Commercial Shopping Malls`, `Retail Fit-Outs`, `Consultant-Side Technical Oversight`, `Preventive Maintenance`, `O&M`, `Testing & Handover`, `AUC Diploma`, `KSA`, `UAE`, `Qatar`, `Egypt`.
 * **Why This Option Is Strongly Recommended**:
   * Captures executive search queries for **both** `Facilities Manager / Senior Facilities Manager` and `MEP Manager`.
@@ -129,10 +129,10 @@ My career progression bridges practical engineering foundations with high-level 
 
 At Egyptian International Architecture Group (Mega Plan), I provide consultant-side technical oversight across four commercial mall developments: East Plaza Mall, Kayan Plaza Mall, Souq El Madina Mall, and 60 Feddan Club Mall. My mandate focuses on engineering rigor: reviewing MEP designs, calculations, technical specifications, and shop drawings; following execution progress step by step; coordinating inspections, testing, and handover; preparing comprehensive technical snag lists; and overseeing technical compliance with applicable Civil Defense fire and life-safety requirements. In addition, I periodically review approximately 11 tenant fit-outs across the mall portfolio to ensure structural and MEP interface compliance.
 
-Previously, at Al-Amal for Development and Trade, I served as Facilities Manager for Course 10 Mall in 10th of Ramadan City (~22,000 m²). I supported the asset across its lifecycle—from late construction and fit-out through operational handover and long-term facility management. I directed a 25-person facilities team (3 engineers, 4 supervisors, and technicians/operators), administered maintenance contracts valued at approximately EGP 150,000/month based on strict response and repair KPIs, managed operating budgets, monitored power and water consumption, and instituted structured inventory tracking. I supervised fit-outs and operational interfaces for major retail brands including Vodafone, Seif Pharmacy, Adidas, Active, National Bank of Egypt, Smart Furniture, 2B, and Tseppas.
+Previously, at Al-Amal for Development and Trade, I served as Facilities Manager for Cross 10 Mall in 10th of Ramadan City (~22,000 m²). I supported the asset across its lifecycle—from late construction and fit-out through operational handover and long-term facility management. I directed a 25-person facilities team (3 engineers, 4 supervisors, and technicians/operators), administered maintenance contracts valued at approximately EGP 150,000/month based on strict response and repair KPIs, managed operating budgets, monitored power and water consumption, and instituted structured inventory tracking. I supervised fit-outs and operational interfaces for major retail brands including Vodafone, Seif Pharmacy, Adidas, Active, National Bank of Egypt, Smart Furniture, 2B, and Tseppas.
 
 My approach combines engineering precision with practical problem-solving:
-• Route Optimization: At Course 10 Mall, coordinated with adjacent site stakeholders to identify a closer alternative water-supply route, avoiding the originally planned booster-pump approach and reducing the estimated connection expenditure from ~EGP 5M to ~EGP 750k (indicative project estimate).
+• Route Optimization: At Cross 10 Mall, coordinated with adjacent site stakeholders to identify a closer alternative water-supply route, avoiding the originally planned booster-pump approach and reducing the estimated connection expenditure from ~EGP 5M to ~EGP 750k (indicative project estimate).
 • System Rehabilitation: At Souq El Madina Mall, resolved chronic concrete-slab drainage leakage by re-routing lines at correct gradients, creating dedicated shop-to-main inspection chambers, rehabilitating lift pumps with an alternating sequence, and integrating restaurant grease traps.
 
 Core Technical & Management Competencies:
@@ -161,8 +161,8 @@ Facilities & MEP Professional with 15+ years of experience across commercial sho
 
 KEY VALUE DELIVERED:
 • Consultant-Side Technical Oversight: Currently overseeing MEP works across 4 commercial malls (East Plaza, Kayan Plaza, Souq El Madina, 60 Feddan Club Malls) at Mega Plan. Responsibilities center on design and shop-drawing audits, installation monitoring, testing & commissioning, technical snagging, Civil Defense compliance, and periodic review of ~11 retail fit-outs.
-• Full Mall Facilities Operations: Formerly Facilities Manager at Al-Amal for Course 10 Mall (~22,000 m²), leading a 25-person operations team, governing ~EGP 150k/month maintenance contracts, managing operating budgets, and coordinating fit-outs for leading brands (Vodafone, Adidas, NBE, Seif Pharmacy).
-• Practical Engineering Problem-Solving: Identified alternative water-supply routing avoiding booster pumps (Course 10 Mall) and rehabilitated defective drainage gradients/pumps to halt chronic slab leakage (Souq El Madina Mall).
+• Full Mall Facilities Operations: Formerly Facilities Manager at Al-Amal for Cross 10 Mall (~22,000 m²), leading a 25-person operations team, governing ~EGP 150k/month maintenance contracts, managing operating budgets, and coordinating fit-outs for leading brands (Vodafone, Adidas, NBE, Seif Pharmacy).
+• Practical Engineering Problem-Solving: Identified alternative water-supply routing avoiding booster pumps (Cross 10 Mall) and rehabilitated defective drainage gradients/pumps to halt chronic slab leakage (Souq El Madina Mall).
 
 CORE EXPERTISE:
 Facilities Management | MEP Technical Oversight | Preventive & Corrective Maintenance | Commercial Mall Operations | Retail Fit-Out Supervision | Civil Defense Compliance | Testing & Handover | Utility Monitoring.
@@ -209,13 +209,13 @@ Delivering consultant-side technical oversight, engineering review, and quality 
 * **Location**: 10th of Ramadan City, Egypt
 * **Recommended LinkedIn Title**: `Facilities Manager / Head of Facilities Department`
 * **Official Baseline Title**: `Facilities Manager`
-* **Asset Handled**: **Course 10 Mall** (Commercial Shopping Center, ~22,000 m² Built-Up Area)
+* **Asset Handled**: **Cross 10 Mall** (Commercial Shopping Center, ~22,000 m² Built-Up Area)
 
 #### Role Overview
-Led comprehensive facilities operations and maintenance for Course 10 Mall, managing the asset's full lifecycle from late-stage construction and tenant fit-out through operational commissioning and 7+ years of sustained commercial operation. Directed a 25-person multi-disciplinary facilities team, governed outsourced maintenance contracts, controlled operating budgets, and managed tenant relations for leading national and international retail brands.
+Led comprehensive facilities operations and maintenance for Cross 10 Mall, managing the asset's full lifecycle from late-stage construction and tenant fit-out through operational commissioning and 7+ years of sustained commercial operation. Directed a 25-person multi-disciplinary facilities team, governed outsourced maintenance contracts, controlled operating budgets, and managed tenant relations for leading national and international retail brands.
 
 #### Ready-to-Paste Bullets
-* **Full Asset Facilities Management**: Directed day-to-day operations and maintenance across Course 10 Mall (~22,000 m²), ensuring continuous reliability of electrical distribution, centralized HVAC, firefighting networks, plumbing/drainage, and building management interfaces.
+* **Full Asset Facilities Management**: Directed day-to-day operations and maintenance across Cross 10 Mall (~22,000 m²), ensuring continuous reliability of electrical distribution, centralized HVAC, firefighting networks, plumbing/drainage, and building management interfaces.
 * **Team Leadership & Resource Allocation**: Managed a dedicated 25-person in-house facilities operations team consisting of 3 engineers, 4 supervisors, and a team of multi-skilled technicians and operational staff, establishing daily task schedules, performance standards, and safety workflows.
 * **Preventive & Corrective Maintenance (PPM/CM)**: Instituted structured preventive maintenance schedules for all critical plant machinery (generators, chillers, pumps, switchgear), achieving sustained equipment availability and reducing unplanned corrective downtime.
 * **Contractor & SLA/KPI Management**: Governed external service providers and administered monthly maintenance contracts valued at approximately EGP 150,000, enforcing rigorous contractor KPIs around response speed, mean time to repair, and preventive quality.
@@ -225,7 +225,7 @@ Led comprehensive facilities operations and maintenance for Course 10 Mall, mana
 * **Infrastructure Cost Optimization (Case Study)**: Coordinated with adjacent site stakeholders (Hyper One) to identify and execute an alternative main water-supply connection route, eliminating the requirement for complex booster-pump stations and reducing estimated connection costs from ~EGP 5M to ~EGP 750k (indicative project estimate).
 
 #### Strategic Metadata
-* **Core Keywords**: `Facilities Management`, `Building Operations & Maintenance (O&M)`, `Preventive Maintenance (PPM)`, `Team Leadership (25 Staff)`, `Retail Fit-Out Coordination`, `SLA & KPI Management`, `Utility Consumption Monitoring`, `Operating Budgets`, `Course 10 Mall`.
+* **Core Keywords**: `Facilities Management`, `Building Operations & Maintenance (O&M)`, `Preventive Maintenance (PPM)`, `Team Leadership (25 Staff)`, `Retail Fit-Out Coordination`, `SLA & KPI Management`, `Utility Consumption Monitoring`, `Operating Budgets`, `Cross 10 Mall`.
 * **Scope Boundary & Integrity Guard**: *Confirmed: The 25-person team leadership and EGP 150k/month maintenance contract governance belong strictly to this role at Al-Amal.*
 
 ---
@@ -423,7 +423,7 @@ The **Featured** section appears directly below the About module and is the prim
 
 ### Asset 2: Selected Facilities & MEP Project Portfolio (PDF)
 * **Title**: `Professional Project Portfolio – Selected Facilities & MEP Experience`
-* **Description**: `Detailed engineering portfolio covering technical oversight across 4 commercial malls (Mega Plan), operational management of Course 10 Mall (22,000 m²), and verified infrastructure problem-solving case studies.`
+* **Description**: `Detailed engineering portfolio covering technical oversight across 4 commercial malls (Mega Plan), operational management of Cross 10 Mall (22,000 m²), and verified infrastructure problem-solving case studies.`
 * **Media / Link**: Upload `downloads/Mahfouz_Salah_Portfolio.pdf` directly as media.
 * **Status**: **Ready to Publish** (Sanitized against client-confidential financial ledgers).
 
@@ -434,7 +434,7 @@ The **Featured** section appears directly below the About module and is the prim
 * **Status**: **Pending GitHub Pages deployment** (Local files ready in workspace).
 
 ### Asset 4: Project Case Study 01 (Media / Post)
-* **Title**: `Case Study: Water-Supply Route Optimization – Course 10 Mall`
+* **Title**: `Case Study: Water-Supply Route Optimization – Cross 10 Mall`
 * **Description**: `How proactive coordination with adjacent site stakeholders identified an alternative water-supply route, eliminating the need for booster pumps and reducing estimated capital connection expenditure from ~EGP 5M to ~EGP 750k.`
 * **Media / Link**: Standalone PDF or formatted LinkedIn article.
 * **Status**: **Ready to Publish** (Figures clearly marked as indicative project estimates).
@@ -453,15 +453,15 @@ These case studies are formatted for publishing under the **Projects** section o
 
 ---
 
-### Case Study 01: Water-Supply Route Optimization — Course 10 Mall
+### Case Study 01: Water-Supply Route Optimization — Cross 10 Mall
 
-* **Project Title**: `Course 10 Mall – Water-Supply Infrastructure & Route Optimization`
+* **Project Title**: `Cross 10 Mall – Water-Supply Infrastructure & Route Optimization`
 * **Associated Role**: `Facilities Manager, Al-Amal for Development and Trade`
 * **Location**: `10th of Ramadan City, Egypt`
 * **Asset Type**: `Commercial Shopping Mall (~22,000 m² Built-Up Area)`
 
 #### Context & Challenge
-During the late construction and fit-out phases of Course 10 Mall, the original municipal water-connection scheme called for a lengthy connection corridor running along an extended perimeter. Initial engineering estimates indicated an infrastructure cost of approximately **EGP 5,000,000**. Critically, the hydraulic head loss across this extended distance would have mandated permanent booster-pump stations, introducing ongoing energy consumption, mechanical maintenance overhead, and lifecycle replacement costs.
+During the late construction and fit-out phases of Cross 10 Mall, the original municipal water-connection scheme called for a lengthy connection corridor running along an extended perimeter. Initial engineering estimates indicated an infrastructure cost of approximately **EGP 5,000,000**. Critically, the hydraulic head loss across this extended distance would have mandated permanent booster-pump stations, introducing ongoing energy consumption, mechanical maintenance overhead, and lifecycle replacement costs.
 
 #### Engineering & Coordination Actions Taken
 1. **Stakeholder Alignment**: Initiated technical and operational discussions with the management of the adjacent Hyper One commercial plot to evaluate boundary easements and utility access.
@@ -568,7 +568,7 @@ To preserve absolute professional integrity and protect against recruiter backgr
 * **Identity**: Full legal name is Mahfouz Salah Mahfouz Soliman; public professional name is Mahfouz Salah Suleiman.
 * **Current Employer**: Egyptian International Architecture Group (Mega Plan), commencing October 2024.
 * **Current Scope Boundary**: Consultant-side technical oversight across 4 commercial malls (**East Plaza Mall**, **Kayan Plaza Mall**, **Souq El Madina Mall**, **60 Feddan Club Mall**). No direct-line subordinate management, no quantity surveying, no payment certificate approvals.
-* **Previous Employer**: Al-Amal for Development and Trade (January 2017 – September 2024). Full operational facilities management of **Course 10 Mall** in 10th of Ramadan City.
+* **Previous Employer**: Al-Amal for Development and Trade (January 2017 – September 2024). Full operational facilities management of **Cross 10 Mall** in 10th of Ramadan City.
 * **Early Career History**:
   * Hyper One Trading Company: Facilities Management Supervisor (Nov 2016 – Jan 2017).
   * Engineering Contracting Office (Assiut): Electrical / Equipment Maintenance Engineer (Nov 2014 – Aug 2016).
@@ -576,16 +576,16 @@ To preserve absolute professional integrity and protect against recruiter backgr
 * **Formal Degree**: Bachelor of Industrial Education, Electronics Technology Department, Helwan University, 2009. Graduation Project: *Design of a Miniature Laboratory System for Voltage and Current Measurements* (Grade: Excellent).
 * **Executive Diploma**: Applied Supervisory Professional Diploma, AUC School of Continuing Education (Nov 4, 2022 – Nov 3, 2023, 210 contact hours).
 * **Verified Short Courses**: 11 LinkedIn Learning courses with verified Certificate IDs, PMI Provider #4101 credentials, and NASBA CPE hours.
-* **Retail Brand Tenant Interfaces**: Vodafone, Seif Pharmacy, Smart Furniture, National Bank of Egypt (NBE), Adidas, Active, 2B, Tseppas at Course 10 Mall.
+* **Retail Brand Tenant Interfaces**: Vodafone, Seif Pharmacy, Smart Furniture, National Bank of Egypt (NBE), Adidas, Active, 2B, Tseppas at Cross 10 Mall.
 
 ---
 
 ### 2. Approximate Figures Requiring Verification
-* **Course 10 Mall Area**: Reported as approximately `22,000 m²`. *Status: Defensible based on architectural layouts; verify against official building permit if challenged.*
+* **Cross 10 Mall Area**: Reported as approximately `22,000 m²`. *Status: Defensible based on architectural layouts; verify against official building permit if challenged.*
 * **Facilities Team Size (Al-Amal)**: Reported as `25 staff` (3 engineers, 4 supervisors, technicians/laborers). *Status: Confirmed by candidate; associate strictly with Al-Amal.*
 * **Monthly Maintenance Contract (Al-Amal)**: Reported as approximately `EGP 150,000/month`. *Status: Indicative contract value; defensible as an operational approximation.*
 * **Retail Tenant Fit-Out Count (Mega Plan)**: Reported as approximately `11 tenant fit-outs` across the four malls. *Status: Dynamic operational count; verify current active versus handed-over status.*
-* **Water-Supply Cost Comparison (Course 10 Mall)**: Initial estimate `~EGP 5,000,000` vs. executed alternative `~EGP 750,000` (indicative variance `~EGP 4,250,000`). *Status: Explicitly framed as an engineering estimate, not an audited financial certificate.*
+* **Water-Supply Cost Comparison (Cross 10 Mall)**: Initial estimate `~EGP 5,000,000` vs. executed alternative `~EGP 750,000` (indicative variance `~EGP 4,250,000`). *Status: Explicitly framed as an engineering estimate, not an audited financial certificate.*
 
 ---
 
@@ -653,7 +653,7 @@ Follow this phased checklist to update the LinkedIn profile without operational 
    * Upload `downloads/Mahfouz_Salah_CV.pdf`.
    * Upload `downloads/Mahfouz_Salah_Portfolio.pdf`.
 2. **Projects Module**:
-   * Create Project card: *Course 10 Mall – Water-Supply Infrastructure & Route Optimization*.
+   * Create Project card: *Cross 10 Mall – Water-Supply Infrastructure & Route Optimization*.
    * Create Project card: *Souq El Madina Mall – Drainage Gradient Remediation & Pump Control Overhaul*.
    * Create Project card: *Mega Plan Commercial Portfolio (East Plaza, Kayan Plaza, Souq El Madina, 60 Feddan Club Malls)*.
 
@@ -683,7 +683,7 @@ graph LR
 ```
 
 ### Top 5 Strategic Levers Elevated:
-1. **Dual-Authority Value Proposition**: Uniquely packages consultant-side engineering scrutiny (Mega Plan's 4 malls) alongside deep operational shopping mall management (Course 10 Mall, 22,000 m², 25-person team).
+1. **Dual-Authority Value Proposition**: Uniquely packages consultant-side engineering scrutiny (Mega Plan's 4 malls) alongside deep operational shopping mall management (Cross 10 Mall, 22,000 m², 25-person team).
 2. **Bulletproof Integrity & Scope Boundaries**: Completely separates consultant technical oversight from direct line-management and payment certifications, while strictly anchoring team leadership to Al-Amal. Eliminates all false PMP risks.
 3. **High-Value Retail Specialization**: Elevates commercial shopping mall and retail fit-out experience—a high-demand, high-compensation niche across Saudi Arabia (PIF gigaprojects, Red Sea, Riyadh retail expansions) and the UAE.
 4. **Algorithmic Recruiter Discovery (SEO)**: Optimizes the profile for Gulf executive search queries across both English and Arabic search patterns, integrating high-frequency Boolean keywords (`MEP Manager`, `Facilities Manager`, `Civil Defense`, `Fit-Outs`, `Testing & Commissioning`).
@@ -691,3 +691,4 @@ graph LR
 
 ---
 *Blueprint formulated and verified against project documentation. All files, assets, and case studies ready for deployment.*
+

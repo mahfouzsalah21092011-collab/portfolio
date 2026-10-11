@@ -1,4 +1,4 @@
-# LinkedIn Profile Visual Verification Walkthrough
+﻿# LinkedIn Profile Visual Verification Walkthrough
 
 **Candidate**: Mahfouz Salah Suleiman  
 **Profile URL**: [https://www.linkedin.com/in/mahfouz-salah-suleiman-9058b2207/](https://www.linkedin.com/in/mahfouz-salah-suleiman-9058b2207/)  
@@ -30,9 +30,9 @@ The About section has been published live and expanded to display the full execu
 
 - **Narrative Structure**: 15+ years career evolution from practical electrical/equipment maintenance to complete asset operations and consultant-side oversight.
 - **Consultant-Side Technical Oversight (Mega Plan)**: 4 commercial malls (East Plaza, Kayan Plaza, Souq El Madina, 60 Feddan Club Malls); design audits, technical snagging, Civil Defense fire/life-safety compliance, and review of ~11 tenant fit-outs.
-- **Full-Lifecycle Facilities Operations (Al-Amal)**: Course 10 Mall (~22,000 m² BUA); 25-person team leadership (3 engineers, 4 supervisors); ~EGP 150k/month maintenance contracts; fit-outs for Vodafone, NBE, Adidas, Seif Pharmacy.
+- **Full-Lifecycle Facilities Operations (Al-Amal)**: Cross 10 Mall (~22,000 m² BUA); 25-person team leadership (3 engineers, 4 supervisors); ~EGP 150k/month maintenance contracts; fit-outs for Vodafone, NBE, Adidas, Seif Pharmacy.
 - **Problem-Solving Case Studies**:
-  - *Route Optimization (Course 10 Mall)*: Direct boundary connection eliminating booster pumps, saving an estimated ~EGP 4.25M in CAPEX.
+  - *Route Optimization (Cross 10 Mall)*: Direct boundary connection eliminating booster pumps, saving an estimated ~EGP 4.25M in CAPEX.
   - *System Rehabilitation (Souq El Madina Mall)*: Gravitational slope re-routing, dedicated inspection chambers, and lift pump overhaul.
 - **Top Skill Pin**: `Facility Management (FM)`.
 
@@ -79,8 +79,8 @@ All 9 commercial mall and infrastructure projects are populated and associated w
 - **East Plaza Mall** → *Associated with Mega Plan*
 - **Kayan Plaza Mall** → *Associated with Mega Plan*
 - **Souq El Madina Mall** → *Associated with Mega Plan*
-- **Course 10 Mall Full-Lifecycle Operations** → *Associated with Al-Amal for Development and Trade*
-- **Course 10 Mall Water-Supply Route Optimization** → *Associated with Al-Amal for Development and Trade*
+- **Cross 10 Mall Full-Lifecycle Operations** → *Associated with Al-Amal for Development and Trade*
+- **Cross 10 Mall Water-Supply Route Optimization** → *Associated with Al-Amal for Development and Trade*
 - **Hyper One Retail Facility Operations** → *Associated with Hyperone - هايبروان*
 - **Municipal Public Lighting Networks** → *Associated with International Contracting Company (Muntaser)*
 
@@ -107,3 +107,4 @@ All 9 commercial mall and infrastructure projects are populated and associated w
 ### C. Services Status
 - **Status**: Disabled / Inactive.
 - **Strategic Rationale**: In accordance with user directives, the profile is 100% dedicated to full-time executive appointments (Facilities Manager / Senior Facilities Manager / MEP Manager) across Saudi Arabia, UAE, Qatar, Kuwait, and Egypt, avoiding independent freelancing dilution.
+

@@ -1,4 +1,4 @@
-const playwright = require('C:/Users/wolfn/AppData/Local/npm-cache/_npx/9833c18b2d85bc59/node_modules/playwright-core');
+﻿const playwright = require('C:/Users/wolfn/AppData/Local/npm-cache/_npx/9833c18b2d85bc59/node_modules/playwright-core');
 
 const PROFILE_DIR = 'C:/Users/wolfn/AppData/Local/ms-playwright-mcp/mahfouze';
 
@@ -12,10 +12,10 @@ CONSULTANT TECHNICAL OVERSIGHT:
 At Egyptian International Architecture Group (Mega Plan), I provide consultant-side technical oversight across 4 commercial malls: East Plaza, Kayan Plaza, Souq El Madina, and 60 Feddan Club Malls. My scope focuses on engineering rigor: reviewing MEP designs, specifications, and shop drawings; monitoring site execution; coordinating inspections, testing, and handover; compiling snag lists; and verifying Civil Defense life-safety compliance. I also periodically review ~11 retail fit-outs for base-building compliance.
 
 FULL MALL FM OPERATIONS:
-At Al-Amal for Development and Trade, I served as Facilities Manager for Course 10 Mall (~22,000 m²). I directed a 25-person facilities team (3 engineers, 4 supervisors, and technical staff), administered maintenance contracts valued at ~EGP 150k/month based on strict response and repair KPIs, managed operating budgets, monitored power/water consumption, and instituted inventory tracking. Supervised fit-outs for brands including Vodafone, Seif Pharmacy, Adidas, Active, NBE, Smart Furniture, 2B, and Tseppas.
+At Al-Amal for Development and Trade, I served as Facilities Manager for Cross 10 Mall (~22,000 m²). I directed a 25-person facilities team (3 engineers, 4 supervisors, and technical staff), administered maintenance contracts valued at ~EGP 150k/month based on strict response and repair KPIs, managed operating budgets, monitored power/water consumption, and instituted inventory tracking. Supervised fit-outs for brands including Vodafone, Seif Pharmacy, Adidas, Active, NBE, Smart Furniture, 2B, and Tseppas.
 
 VALUE CREATION HIGHLIGHTS:
-• Route Optimization (Course 10 Mall): Coordinated an alternative water connection route, avoiding booster pumps and reducing expenditure from ~EGP 5M to ~EGP 750k (indicative estimate).
+• Route Optimization (Cross 10 Mall): Coordinated an alternative water connection route, avoiding booster pumps and reducing expenditure from ~EGP 5M to ~EGP 750k (indicative estimate).
 • System Rehabilitation (Souq El Madina Mall): Resolved slab drainage leakage by re-routing lines at correct gradients, creating inspection chambers, rehabilitating lift pumps, and adding grease traps.
 
 CORE EXPERTISE:
@@ -126,3 +126,4 @@ async function run() {
 }
 
 run().catch(console.error);
+
