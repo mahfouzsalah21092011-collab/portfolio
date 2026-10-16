@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Portfolio Social Preview Thumbnail</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,700&family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    html, body {
+      width: 1200px;
+      height: 630px;
+      overflow: hidden;
+      background: #0B192C;
+      font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+      color: #FFFFFF;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    .canvas {
+      position: relative;
+      width: 1200px;
+      height: 630px;
+      background: radial-gradient(circle at 80% 28%, rgba(24, 166, 166, 0.24) 0%, transparent 48%),
+                  radial-gradient(circle at 15% 82%, rgba(24, 56, 82, 0.42) 0%, transparent 42%),
+                  linear-gradient(135deg, #091524 0%, #0F2338 52%, #13304A 100%);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 75px;
+      overflow: hidden;
+    }
+
+    /* Top luxury accent stripe */
+    .top-accent {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 4px;
+      background: linear-gradient(90deg, #18A6A6 0%, #8EE0DD 35%, #E8B86D 70%, #18A6A6 100%);
+    }
+
+    /* Subtle technical blueprint grid background */
+    .tech-grid {
+      position: absolute;
+      inset: 0;
+      background-image: 
+        linear-gradient(to right, rgba(255, 255, 255, 0.025) 1px, transparent 1px),
+        linear-gradient(to bottom, rgba(255, 255, 255, 0.025) 1px, transparent 1px);
+      background-size: 44px 44px;
+      pointer-events: none;
+    }
+
+    /* Decorative technical corner frames */
+    .corner-tl {
+      position: absolute;
+      top: 26px;
+      left: 30px;
+      width: 18px;
+      height: 18px;
+      border-top: 2px solid rgba(142, 224, 221, 0.45);
+      border-left: 2px solid rgba(142, 224, 221, 0.45);
+    }
+    .corner-br {
+      position: absolute;
+      bottom: 26px;
+      right: 30px;
+      width: 18px;
+      height: 18px;
+      border-bottom: 2px solid rgba(232, 184, 109, 0.45);
+      border-right: 2px solid rgba(232, 184, 109, 0.45);
+    }
+
+    /* Left Content Column */
+    .content-left {
+      position: relative;
+      z-index: 2;
+      max-width: 670px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    .eyebrow-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      background: rgba(24, 166, 166, 0.14);
+      border: 1px solid rgba(142, 224, 221, 0.4);
+      border-radius: 999px;
+      padding: 7px 18px;
+      align-self: flex-start;
+    }
+    .eyebrow-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: #E8B86D;
+      box-shadow: 0 0 10px rgba(232, 184, 109, 0.75);
+    }
+    .eyebrow-text {
+      font-size: 11.5px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: #8EE0DD;
+    }
+
+    h1.name-title {
+      font-family: 'Manrope', sans-serif;
+      font-size: 48px;
+      font-weight: 800;
+      letter-spacing: -1.2px;
+      line-height: 1.12;
+      color: #FFFFFF;
+      text-shadow: 0 4px 24px rgba(0, 0, 0, 0.45);
+    }
+    h1.name-title span {
+      color: #8EE0DD;
+    }
+
+    .headline-bar {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      margin-top: 2px;
+    }
+    .headline-bar .bar-line {
+      width: 36px;
+      height: 3px;
+      background: linear-gradient(90deg, #E8B86D, #18A6A6);
+      border-radius: 2px;
+      flex-shrink: 0;
+    }
+    .primary-role {
+      font-family: 'Manrope', sans-serif;
+      font-size: 23px;
+      font-weight: 700;
+      letter-spacing: 1.2px;
+      color: #82E1DF;
+      text-transform: uppercase;
+      display: flex;
+      align-items: center;
+    }
+    .pipe-divider {
+      color: #E8B86D;
+      opacity: 0.85;
+      font-weight: 400;
+      margin: 0 10px;
+    }
+
+    .secondary-scope {
+      font-size: 15px;
+      font-weight: 600;
+      letter-spacing: 1.8px;
+      text-transform: uppercase;
+      color: #CFDFEF;
+      line-height: 1.45;
+      padding-left: 50px;
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    .secondary-scope .pipe-sub {
+      color: #18A6A6;
+      opacity: 0.8;
+      font-weight: 400;
+      margin: 0 8px;
+    }
+
+    .pillars-strip {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-top: 8px;
+      padding-left: 50px;
+    }
+    .pillar-tag {
+      background: rgba(255, 255, 255, 0.06);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      color: #E3EEF7;
+      font-size: 12.5px;
+      font-weight: 600;
+      padding: 6px 14px;
+      border-radius: 7px;
+      letter-spacing: 0.3px;
+    }
+    .pillar-tag.highlight {
+      background: rgba(232, 184, 109, 0.12);
+      border-color: rgba(232, 184, 109, 0.35);
+      color: #F8DCA6;
+    }
+
+    .footer-badge-row {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      margin-top: 14px;
+      padding-top: 16px;
+      border-top: 1px solid rgba(255, 255, 255, 0.08);
+      padding-left: 50px;
+    }
+    .domain-badge {
+      display: flex;
+      align-items: center;
+      gap: 9px;
+      font-size: 13.5px;
+      font-weight: 600;
+      color: #9DBFD9;
+      letter-spacing: 0.3px;
+    }
+    .domain-badge svg {
+      width: 15px;
+      height: 15px;
+      fill: #18A6A6;
+    }
+
+    /* Right Column (Authentic Portrait) */
+    .portrait-col {
+      position: relative;
+      z-index: 2;
+      width: 360px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .portrait-halo-outer {
+      position: absolute;
+      width: 372px;
+      height: 372px;
+      border-radius: 50%;
+      border: 1.5px solid rgba(142, 224, 221, 0.32);
+      box-shadow: 0 0 50px rgba(24, 166, 166, 0.2);
+    }
+    .portrait-halo-inner {
+      position: absolute;
+      width: 348px;
+      height: 348px;
+      border-radius: 50%;
+      border: 1.5px dashed rgba(232, 184, 109, 0.48);
+    }
+
+    .portrait-img-box {
+      position: relative;
+      width: 320px;
+      height: 320px;
+      border-radius: 50%;
+      overflow: hidden;
+      border: 6px solid #FFFFFF;
+      box-shadow: 0 25px 65px rgba(0, 0, 0, 0.6);
+      background: #14314C;
+    }
+    .portrait-img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center 20%;
+    }
+
+    /* Floating credential card on portrait */
+    .floating-card {
+      position: absolute;
+      bottom: -6px;
+      left: -20px;
+      background: #FFFFFF;
+      color: #10243A;
+      border-radius: 12px;
+      padding: 12px 18px;
+      box-shadow: 0 16px 36px rgba(0, 0, 0, 0.38);
+      border: 1px solid rgba(255, 255, 255, 0.95);
+      z-index: 3;
+    }
+    .floating-card strong {
+      font-family: 'Manrope', sans-serif;
+      display: block;
+      font-size: 13.5px;
+      font-weight: 800;
+      color: #10243A;
+      letter-spacing: -0.2px;
+    }
+    .floating-card small {
+      display: block;
+      color: #5C6F84;
+      font-size: 11.5px;
+      font-weight: 600;
+      margin-top: 2px;
+    }
+  </style>
+</head>
+<body>
+  <div class="canvas">
+    <div class="top-accent"></div>
+    <div class="tech-grid"></div>
+    <div class="corner-tl"></div>
+    <div class="corner-br"></div>
+
+    <!-- Left Content Column -->
+    <div class="content-left">
+      <div class="eyebrow-pill">
+        <span class="eyebrow-dot"></span>
+        <span class="eyebrow-text">Professional Portfolio</span>
+      </div>
+
+      <h1 class="name-title">
+        MAHFOUZ SALAH<br><span>SULEIMAN</span>
+      </h1>
+
+      <div class="headline-bar">
+        <div class="bar-line"></div>
+        <div class="primary-role">
+          FACILITIES MANAGEMENT <span class="pipe-divider">|</span> MEP
+        </div>
+      </div>
+
+      <div class="secondary-scope">
+        SHOPPING MALLS <span class="pipe-sub">|</span> OPERATIONS <span class="pipe-sub">|</span> TECHNICAL OVERSIGHT
+      </div>
+
+      <div class="pillars-strip">
+        <span class="pillar-tag highlight">15+ Years Track Record</span>
+        <span class="pillar-tag">Retail Tenant Fit-Outs</span>
+        <span class="pillar-tag">Civil Defense &amp; O&amp;M</span>
+      </div>
+
+      <div class="footer-badge-row">
+        <div class="domain-badge">
+          <svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/></svg>
+          <span>mahfouzsalah21092011-collab.github.io/portfolio</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Right Column (Authentic Portrait) -->
+    <div class="portrait-col">
+      <div class="portrait-halo-outer"></div>
+      <div class="portrait-halo-inner"></div>
+      <div class="portrait-img-box">
+        <img class="portrait-img" src="assets/mahfouz-headshot-square-800x800.png" alt="Mahfouz Salah Suleiman">
+      </div>
+      <div class="floating-card">
+        <strong>Facilities &amp; MEP Manager</strong>
+        <small>Cairo · KSA · UAE · Qatar · Kuwait</small>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

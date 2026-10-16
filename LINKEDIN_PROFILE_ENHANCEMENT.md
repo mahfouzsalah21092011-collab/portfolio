@@ -1,4 +1,4 @@
-﻿# Comprehensive LinkedIn Profile Audit, Strategy & Enhancement Master Plan
+# Comprehensive LinkedIn Profile Audit, Strategy & Enhancement Master Plan
 **Candidate:** Mahfouz Salah Suleiman (Mahfouz Salah Mahfouz Soliman)  
 **Target Roles:** Facilities Manager | Senior Facilities Manager | MEP Manager | Facilities & MEP Department Manager  
 **Target Markets:** Saudi Arabia (KSA) | United Arab Emirates (UAE) | Egypt | Kuwait | Qatar  
@@ -187,16 +187,16 @@ Direct: Mahfouzsoliman2021@gmail.com | +2 01027629474 | +2 01221833667
 * **Role Classification**: Consultant-Side Engineering Oversight & Quality Governance
 
 #### Role Overview
-Delivering consultant-side technical oversight, engineering review, and quality compliance for MEP works and retail tenant fit-outs across four commercial shopping malls in Egypt: **East Plaza Mall**, **Kayan Plaza Mall**, **Souq El Madina Mall**, and **60 Feddan Club Mall**. Acting as the technical authority ensuring contractor installations adhere strictly to engineering designs, approved shop drawings, local codes, and Civil Defense fire/life-safety standards.
+Delivering consultant-side technical oversight, engineering drawing reviews, and execution supervision across 8 commercial mall developments in Egypt, including **Madinat Masr Developments** (Mall Arena at Sarai, Mall Taj at Taj City, Mall Kinda), **Sky Walk** (6th of October City), **Muse Mall** (near Al Naib Al Aam Bridge), **East Plaza Mall**, **Kayan Plaza Mall**, **Souq El Madina Mall**, and **60 Feddan Club Mall**. Governing MEP engineering compliance, tenant drawing reviews, and site execution across 75+ commercial retail tenants. Acting as the technical authority ensuring contractor installations adhere strictly to engineering designs, approved shop drawings, local codes, and Civil Defense fire/life-safety standards.
 
 #### Ready-to-Paste Bullets
-* **MEP Engineering & Design Audits**: Review complex MEP designs, engineering calculations, technical specifications, and contractor shop drawings across electrical, HVAC, firefighting, plumbing, and drainage systems to ensure compliance prior to site execution.
-* **Site Execution & Technical Oversight**: Monitor contractor progress across all four mall sites item by item, identifying engineering non-conformances, issuing technical observations, and resolving on-site coordination clashes between architectural, structural, and MEP packages.
-* **Inspections, Testing & Handover**: Coordinate and supervise formal site inspections, MEP testing procedures, and commissioning protocols, ensuring all installations meet operational performance criteria prior to consultant sign-off.
-* **Snag List & Quality Governance**: Compile and track comprehensive technical snag lists for building services and common areas, systematically following up contractor close-outs to achieve defect-free handover.
-* **Retail Tenant Fit-Out Oversight**: Provide periodic technical review for approximately 11 retail tenant fit-out projects across the mall portfolio, verifying that tenant MEP modifications, utility connections, and structural loads align with base-building parameters.
-* **Civil Defense & Life-Safety Compliance**: Coordinate engineering compliance with applicable Egyptian Civil Defense requirements, rigorously inspecting fire alarm loops, smoke management, sprinkler networks, and emergency egress systems.
-* **Stakeholder Coordination**: Facilitate proactive technical coordination between project owners, executive consultants, general contractors, sub-contractors, and commercial tenant representatives to prevent handover delays.
+* **Portfolio-Wide Technical Oversight**: Deliver consultant-side engineering reviews, shop drawing audits, and execution supervision across 8 commercial mall developments in Egypt.
+* **Madinat Masr Developments (20+ Tenants)**: Review and coordinate technical MEP drawings and supervise execution works for 20+ commercial retail tenants collectively across Mall Arena (Sarai Compound), Mall Taj (Taj City Compound), and Mall Kinda.
+* **Sky Walk Commercial Center (10 Tenants)**: Conduct technical drawing reviews for 10 retail tenants in 6th of October City, coordinating utility connections and following up on MEP site execution.
+* **Muse Mall Site Supervision (35+ Tenants)**: Supervise high-volume MEP site execution and coordinate multi-tenant technical interfaces for 35+ retail tenants near Al Naib Al Aam Bridge.
+* **Engineering Audits & Snagging Governance**: Review MEP designs, specifications, and contractor shop drawings across East Plaza, Kayan Plaza, Souq El Madina, and 60 Feddan Club Malls; monitor execution, compile technical snag lists, and oversee testing & handover.
+* **Civil Defense & Life-Safety Coordination**: Coordinate compliance with Egyptian Civil Defense requirements, verifying fire protection, sprinkler networks, fire alarm loops, and smoke control systems across retail tenant fit-outs and common mall areas.
+* **Stakeholder Diplomacy & Technical Alignment**: Facilitate proactive technical coordination among project developers, lead consultants, MEP contractors, and commercial tenant engineering representatives.
 
 #### Strategic Metadata
 * **Core Keywords**: `Consultant-Side Technical Oversight`, `MEP Engineering Review`, `Shop Drawing Review`, `Testing & Commissioning (T&C)`, `Technical Snagging`, `Retail Tenant Fit-Outs`, `Civil Defense Compliance`, `Commercial Malls`, `Fire & Life Safety`.
@@ -502,6 +502,80 @@ Following initial execution at Souq El Madina Mall, recurrent wastewater leakage
 
 #### Key Competencies Demonstrated
 `Plumbing & Drainage Engineering` | `Pump Control Automation` | `Root-Cause Troubleshooting` | `Commercial Kitchen F&B Grease Management` | `Structural Slab Protection`.
+
+---
+
+### Case Study 03: Tenant MEP Drawing Review & Execution Supervision — Madinat Masr Developments
+
+* **Project Title**: `Madinat Masr Developments – Tenant MEP Drawing Review & Execution Supervision`
+* **Associated Role**: `Facilities / MEP Department Manager, Egyptian International Architecture Group (Mega Plan)`
+* **Locations**: `Mall Arena (Sarai Compound), Mall Taj (Taj City Compound), and Mall Kinda — Cairo, Egypt`
+* **Asset Type**: `Commercial Shopping Malls & Mixed-Use Retail Developments`
+
+#### Context & Scope
+Providing consultant-side engineering oversight across three shopping malls associated with Madinat Masr developments. The engagement encompasses technical drawing reviews and MEP execution supervision for more than 20 retail tenants collectively across the three commercial properties.
+
+#### Engineering & Coordination Actions Taken
+1. **Tenant Drawing Compliance Audits**: Reviewed tenant MEP submissions (power feeds, lighting, HVAC ducting, plumbing, drainage, and fire protection) against base-building capacities and architectural guidelines.
+2. **Consultant-Side Site Supervision**: Followed up on-site MEP execution activities, verifying that contractor installations conformed strictly to reviewed shop drawings and approved specifications.
+3. **Civil Defense Coordination**: Verified that all tenant MEP layouts adhered to applicable Civil Defense life-safety and fire protection standards.
+4. **Stakeholder Alignment**: Addressed technical queries and coordinated review comments between tenant engineers, master developer representatives, and base-building teams.
+
+#### Reported Project Outcome
+* Prevented capacity overloads on base-building electrical distribution and chilled-water systems.
+* Eliminated routing clashes before tenant handover, accelerating retail opening readiness.
+
+#### Key Competencies Demonstrated
+`MEP Drawing Reviews` | `Tenant Fit-Out Coordination` | `Consultant Site Supervision` | `Base-Building Interface Management` | `Civil Defense Compliance`.
+
+---
+
+### Case Study 04: Tenant Drawing Reviews & Execution Follow-Up — Sky Walk
+
+* **Project Title**: `Sky Walk – Retail Tenant MEP Coordination & Site Implementation`
+* **Associated Role**: `Facilities / MEP Department Manager, Egyptian International Architecture Group (Mega Plan)`
+* **Location**: `6th of October City, Egypt`
+* **Asset Type**: `Commercial Retail & Business Center`
+
+#### Context & Scope
+Consultant-side MEP drawing reviews and execution follow-up for 10 commercial retail tenants within the Sky Walk commercial development.
+
+#### Engineering & Coordination Actions Taken
+1. **Drawing Review & Load Verification**: Conducted comprehensive engineering reviews of 10 tenant MEP packages, checking electrical loads, HVAC airflow routing, sanitary drainage gradients, and fire alarm integration.
+2. **Site Execution Verification**: Carried out field inspections to ensure physical installation aligned with approved shop drawings and base-building riser connections.
+3. **Technical Observation Tracking**: Issued clear engineering observations to tenant contractors to rectify non-conformities before testing and commissioning.
+
+#### Reported Project Outcome
+* Maintained high engineering compliance across all 10 tenant fit-out packages.
+* Protected building services integrity and ensured timely coordination with mall management.
+
+#### Key Competencies Demonstrated
+`Drawing Review` | `Site Execution Follow-Up` | `Retail Fit-Out Quality` | `Multi-Service Coordination`.
+
+---
+
+### Case Study 05: High-Density Site Execution Supervision — Muse Mall
+
+* **Project Title**: `Muse Mall – Multi-Tenant MEP Execution Supervision`
+* **Associated Role**: `Facilities / MEP Department Manager, Egyptian International Architecture Group (Mega Plan)`
+* **Location**: `Near Al Naib Al Aam Bridge, Egypt`
+* **Asset Type**: `Large-Scale Commercial Shopping Center`
+
+#### Context & Scope
+Supervising high-density MEP site execution works and managing technical coordination across more than 35 commercial retail tenants concurrently.
+
+#### Engineering & Coordination Actions Taken
+1. **High-Volume Field Supervision**: Provided continuous consultant oversight across 35+ retail tenant units during intense execution and fit-out phases.
+2. **MEP System Integration**: Monitored tenant tie-ins to base-building risers, sanitary stacks, chilled water headers, and fire alarm loop circuits.
+3. **Life-Safety & Safety Protocols**: Enforced rigorous compliance with Egyptian Civil Defense guidelines, verifying containment integrity and emergency system connectivity.
+4. **Resolution of Site Clashes**: Proactively resolved on-site space and routing conflicts between ceiling services, retail shopfronts, and structural columns.
+
+#### Reported Project Outcome
+* Successfully governed quality and safety across 35+ retail tenant fit-outs without compromising base-building infrastructure.
+* Minimized contractor disputes and accelerated technical snag close-outs.
+
+#### Key Competencies Demonstrated
+`High-Volume Tenant Supervision` | `Site Execution Governance` | `Life-Safety Integration` | `Interdisciplinary Clash Resolution`.
 
 ---
 
