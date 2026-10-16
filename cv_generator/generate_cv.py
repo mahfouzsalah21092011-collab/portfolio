@@ -22,6 +22,8 @@ import shutil
 from docx import Document
 from docx.shared import Inches, Pt, RGBColor
 from docx.enum.text import WD_ALIGN_PARAGRAPH
+from docx.opc.constants import RELATIONSHIP_TYPE
+from docx.oxml import parse_xml
 from reportlab.lib import colors
 from reportlab.lib.enums import TA_CENTER
 from reportlab.lib.pagesizes import A4
@@ -35,8 +37,41 @@ PDF_PATH = OUT / "Mahfouz_Salah_CV_RDD_MEP.pdf"
 
 NAME = "MAHFOUZ SALAH MAHFOUZ SOLIMAN"
 HEADLINE = "FACILITIES & MEP | RETAIL DESIGN & DELIVERY | TENANT FIT-OUT & TECHNICAL OVERSIGHT"
-CONTACT = "Cairo, Egypt  |  +2 01027629474  |  +2 01221833667  |  Mahfouzsoliman2021@gmail.com"
-LINKEDIN = "linkedin.com/in/mahfouz-salah-suleiman-9058b2207"
+CONTACT_LOCATION_PHONE = "Cairo, Egypt   |   +2 01027629474   |   +2 01221833667"
+EMAIL_ADDR = "Mahfouzsoliman2021@gmail.com"
+EMAIL_URL = f"mailto:{EMAIL_ADDR}"
+PORTFOLIO_URL = "https://portfolio.mahfouz-salah.workers.dev/"
+PORTFOLIO_DISPLAY = "portfolio.mahfouz-salah.workers.dev"
+LINKEDIN_URL = "https://www.linkedin.com/in/mahfouz-salah-suleiman-9058b2207/"
+LINKEDIN_DISPLAY = "linkedin.com/in/mahfouz-salah-suleiman-9058b2207"
+
+def add_docx_hyperlink(paragraph, url, text, color="146677", underline=True, size_pt=8, bold=False):
+    part = paragraph.part
+    r_id = part.relate_to(url, RELATIONSHIP_TYPE.HYPERLINK, is_external=True)
+    hl = parse_xml(
+        f'<w:hyperlink xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" '
+        f'r:id="{r_id}" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"/>'
+    )
+    r = parse_xml('<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"/>')
+    rPr = parse_xml('<w:rPr xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"/>')
+    if color:
+        c = parse_xml(f'<w:color xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" w:val="{color}"/>')
+        rPr.append(c)
+    if underline:
+        u = parse_xml('<w:u xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" w:val="single"/>')
+        rPr.append(u)
+    if bold:
+        b = parse_xml('<w:b xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"/>')
+        rPr.append(b)
+    if size_pt:
+        sz = parse_xml(f'<w:sz xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" w:val="{int(size_pt * 2)}"/>')
+        rPr.append(sz)
+    r.append(rPr)
+    t = parse_xml(f'<w:t xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">{text}</w:t>')
+    r.append(t)
+    hl.append(r)
+    paragraph._p.append(hl)
+    return hl
 
 SUMMARY = (
     "Facilities and MEP professional with 15+ years of experience across electrical maintenance, "
@@ -155,7 +190,29 @@ def build_docx(docx_out: Path = DOCX_PATH):
 
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    p.add_run(CONTACT + "\n" + LINKEDIN).font.size = Pt(8)
+    p.paragraph_format.space_after = Pt(1)
+    p.add_run(CONTACT_LOCATION_PHONE + "   |   ").font.size = Pt(8)
+    add_docx_hyperlink(p, EMAIL_URL, EMAIL_ADDR, color="146677", underline=True, size_pt=8)
+
+    p2 = doc.add_paragraph()
+    p2.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    p2.paragraph_format.space_after = Pt(2.5)
+
+    r_li_lbl = p2.add_run("LinkedIn: ")
+    r_li_lbl.bold = True
+    r_li_lbl.font.size = Pt(8)
+    r_li_lbl.font.color.rgb = RGBColor(20, 53, 76)
+    add_docx_hyperlink(p2, LINKEDIN_URL, LINKEDIN_DISPLAY, color="146677", underline=True, size_pt=8)
+
+    r_sep = p2.add_run("   |   ")
+    r_sep.font.size = Pt(8)
+    r_sep.font.color.rgb = RGBColor(120, 135, 150)
+
+    r_pf_lbl = p2.add_run("Portfolio: ")
+    r_pf_lbl.bold = True
+    r_pf_lbl.font.size = Pt(8)
+    r_pf_lbl.font.color.rgb = RGBColor(20, 53, 76)
+    add_docx_hyperlink(p2, PORTFOLIO_URL, PORTFOLIO_DISPLAY, color="146677", underline=True, size_pt=8)
 
     def heading(label):
         p = doc.add_paragraph()
@@ -338,12 +395,22 @@ def build_pdf(pdf_out: Path = PDF_PATH):
         )
     )
 
+    contact_p1 = (
+        f"{CONTACT_LOCATION_PHONE} &nbsp;|&nbsp; "
+        f"<a href='{EMAIL_URL}'><font color='#146677'><u>{EMAIL_ADDR}</u></font></a>"
+    )
+    contact_p2 = (
+        f"<b>LinkedIn:</b> <a href='{LINKEDIN_URL}'><font color='#146677'><u>{LINKEDIN_DISPLAY}</u></font></a>"
+        " &nbsp;|&nbsp; "
+        f"<b>Portfolio:</b> <a href='{PORTFOLIO_URL}'><font color='#146677'><u>{PORTFOLIO_DISPLAY}</u></font></a>"
+    )
+
     story = [
         Paragraph(NAME, styles["CVName"]),
         Paragraph(HEADLINE, styles["CVHeadline"]),
-        Paragraph(CONTACT, styles["CVContact"]),
-        Paragraph(LINKEDIN, styles["CVContact"]),
-        Spacer(1, 3),
+        Paragraph(contact_p1, styles["CVContact"]),
+        Paragraph(contact_p2, styles["CVContact"]),
+        Spacer(1, 2.5),
     ]
 
     def sec_flow(title):
