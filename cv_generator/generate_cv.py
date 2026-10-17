@@ -36,7 +36,7 @@ DOCX_PATH = OUT / "Mahfouz_Salah_CV_RDD_MEP.docx"
 PDF_PATH = OUT / "Mahfouz_Salah_CV_RDD_MEP.pdf"
 
 NAME = "MAHFOUZ SALAH MAHFOUZ SOLIMAN"
-HEADLINE = "FACILITIES & MEP | RETAIL DESIGN & DELIVERY | TENANT FIT-OUT & TECHNICAL OVERSIGHT"
+HEADLINE = "FACILITIES MANAGER | MEP SYSTEMS | RETAIL DESIGN & DELIVERY (RDD) | SHOPPING MALL OPERATIONS & TECHNICAL OVERSIGHT"
 CONTACT_LOCATION_PHONE = "Cairo, Egypt   |   +2 01027629474   |   +2 01221833667"
 EMAIL_ADDR = "Mahfouzsoliman2021@gmail.com"
 EMAIL_URL = f"mailto:{EMAIL_ADDR}"
@@ -103,7 +103,8 @@ EXPERIENCE = [
             "Review tenant MEP drawings, shop drawings, design details and technical submissions; coordinate comments and follow-up.",
             "Monitor site execution, inspections, testing, snagging and handover readiness, coordinating with tenants, contractors and relevant stakeholders.",
             "Coordinate Civil Defense and fire/life-safety requirements as applicable to project works.",
-            "Support tenant fit-outs across East Plaza Mall, Kayan Plaza Mall, Souq El Madina Mall and 60 Feddan Club Mall (approximately 11 tenant fit-outs collectively).",
+            "60 Feddan Club Mall: Manage MEP technical reviews, base-building interfaces, tenant submittal audits (power, HVAC, plumbing) to protect central plant capacity, and Civil Defense fire/life-safety inspections.",
+            "Support tenant fit-outs across East Plaza Mall, Kayan Plaza Mall, and Souq El Madina Mall (approximately 11 tenant fit-outs collectively).",
             "Review drawings for 20+ tenants collectively across Mall Arena (Sarai Compound), Mall Taj (Taj City Compound) and Mall Kinda, and follow up MEP execution.",
             "Review drawings for 10 tenants and follow up MEP execution at Sky Walk, 6th of October City.",
             "Supervised works involving 35+ tenants at Muse Mall, near Al Naib Al Aam Bridge.",
